@@ -1,0 +1,302 @@
+[
+    {
+        "prodname": "qwert",
+        "prodid": "1234567",
+        "approved": "asdfgh",
+        "date": "0000-00-00","platform":"amazon"
+    },
+    {
+        "prodname": "sdfgh",
+        "prodid": "1234",
+        "approved": "mnbvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "[value-1]",
+        "prodid": "1",
+        "approved": "lkjhgf",
+        "date": "0000-00-00","platform":"myntra"
+    },
+    {
+        "prodname": "yes",
+        "prodid": "2",
+        "approved": "cfg",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"amazon"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"amazon"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"myntra"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"myntra"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"amazon"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"myntra"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"amazon"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"myntra"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    },
+    {
+        "prodname": "qwe",
+        "prodid": "23",
+        "approved": "bvc",
+        "date": "0000-00-00","platform":"flipkart"
+    }
+]

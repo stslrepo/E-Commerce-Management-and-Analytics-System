@@ -1,0 +1,74 @@
+[
+    {
+        "pname": "CD",
+        "pid": "2541",
+        "dop": "2022-10-09",
+        "approval": "",
+        "sp": "no",
+        "orderon": "amazon"
+    },
+    {
+        "pname": "SSD",
+        "pid": "2542",
+        "dop": "2022-10-10",
+        "approval": "yes",
+        "sp": "no",
+        "orderon": "amazon"
+    },
+    {
+        "pname": "HDD",
+        "pid": "2543",
+        "dop": "2022-10-08",
+        "approval": "yes",
+        "sp": "yes",
+        "orderon": "amazon"
+    },
+    {
+        "pname": "CD",
+        "pid": "8451",
+        "dop": "2022-10-09",
+        "approval": "",
+        "sp": "no",
+        "orderon": "flipkart"
+    },
+    {
+        "pname": "Case",
+        "pid": "8452",
+        "dop": "2022-10-10",
+        "approval": "yes",
+        "sp": "no",
+        "orderon": "flipkart"
+    },
+    {
+        "pname": "Skin",
+        "pid": "8453",
+        "dop": "2022-10-08",
+        "approval": "yes",
+        "sp": "yes",
+        "orderon": "flipkart"
+    },
+    {
+        "pname": "Mobile Case",
+        "pid": "5461",
+        "dop": "2022-10-09",
+        "approval": "",
+        "sp": "no",
+        "orderon": "myntra"
+    },
+    {
+        "pname": "Laptop Case",
+        "pid": "5462",
+        "dop": "2022-10-10",
+        "approval": "yes",
+        "sp": "no",
+        "orderon": "myntra"
+    },
+    {
+        "pname": "Skin",
+        "pid": "5463",
+        "dop": "2022-10-08",
+        "approval": "yes",
+        "sp": "yes",
+        "orderon": "myntra"
+    }
+]
